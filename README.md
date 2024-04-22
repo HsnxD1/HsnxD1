@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HsnxD1
+- 👀 I’m interested in Coding with Pythonh
+- 🌱 I’m currently learning Python and C++
+- 📫 How to reach me: hasanzaid.info@gmail.com
+- 😄 Pronouns:he/him
